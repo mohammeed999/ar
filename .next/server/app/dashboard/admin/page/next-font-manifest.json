@@ -1,0 +1,14 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/src/app/dashboard/admin/page": [
+      "static/media/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YOG_eCRXMRrKATtYV0-s.p.bb4ebb13.woff2",
+      "static/media/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPi_OCRXMRrKATtYV0-s.p.36342806.woff2",
+      "static/media/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPO__CRXMRrKATtYV0-s.p.3120f892.woff2",
+      "static/media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw-s.p.7b3669ea.woff2",
+      "static/media/Qw3CZRtWPQCuHme67tEYUIx3Kh0PHR9N6Ys43PW5fslBEg0-s.p.0fe8fd49.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

@@ -1,0 +1,15 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/src/app/blog/[id]/page": [
+      "static/media/nwpCtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlj4wv4rqxzLIhjE-s.p.195d4c14.woff2",
+      "static/media/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ-s.p.a797655c.woff2",
+      "static/media/Qw3CZRtWPQCuHme67tEYUIx3Kh0PHR9N6Ys43PW5fslBEg0-s.p.0fe8fd49.woff2",
+      "static/media/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YOW_uCRXMRrKATtYV0-s.p.7bcd3cf1.woff2",
+      "static/media/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPO__CRXMRrKATtYV0-s.p.3120f892.woff2",
+      "static/media/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YOG_eCRXMRrKATtYV0-s.p.bb4ebb13.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}
